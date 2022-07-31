@@ -13,7 +13,7 @@
 		A52486BF2893393700117CBF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52486BE2893393700117CBF /* ViewController.swift */; };
 		A52486C42893393800117CBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A52486C32893393800117CBF /* Assets.xcassets */; };
 		A52486C72893393800117CBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A52486C52893393800117CBF /* LaunchScreen.storyboard */; };
-		A53E712E289654B6004ECCE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A53E712D289654B6004ECCE7 /* Main.storyboard */; };
+		A53E7131289683C8004ECCE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A53E7130289683C8004ECCE7 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		A52486C32893393800117CBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A52486C62893393800117CBF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A52486C82893393800117CBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A53E712D289654B6004ECCE7 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		A53E7130289683C8004ECCE7 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +83,7 @@
 				A52486BA2893393700117CBF /* AppDelegate.swift */,
 				A52486BC2893393700117CBF /* SceneDelegate.swift */,
 				A52486BE2893393700117CBF /* ViewController.swift */,
-				A53E712D289654B6004ECCE7 /* Main.storyboard */,
+				A53E7130289683C8004ECCE7 /* Main.storyboard */,
 				A52486C32893393800117CBF /* Assets.xcassets */,
 				A52486C52893393800117CBF /* LaunchScreen.storyboard */,
 				A52486C82893393800117CBF /* Info.plist */,
@@ -153,7 +153,7 @@
 			files = (
 				A52486C72893393800117CBF /* LaunchScreen.storyboard in Resources */,
 				A52486C42893393800117CBF /* Assets.xcassets in Resources */,
-				A53E712E289654B6004ECCE7 /* Main.storyboard in Resources */,
+				A53E7131289683C8004ECCE7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
